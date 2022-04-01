@@ -5,4 +5,4 @@ You can try it / see a demo using the given link -
 
 This project is open and you are welcome to create any changes to this wather app add amazing functanality 
 
-Current version number : 0.5 Beta
+Current version number : 1.0
